@@ -3,7 +3,7 @@
     "workflow": 1,
     "config": [
       {
-        "url": "https://browserleaks.com/ip",
+        "url": "https://pixelscan.net/fingerprint-check",
         "workers": 2,
         "countries": [
           {
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "url": "https://browserleaks.com/ip",
+        "url": "https://pixelscan.net/fingerprint-check",
         "countries": [
           {
             "name": "Germany",
