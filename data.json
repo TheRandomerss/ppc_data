@@ -1,182 +1,119 @@
 [
-{
-"workflow": 1,
-"config": [
-{
-"url": "https://browserleaks.com/ip",
-"workers": 2,
-"countries": [
-{
-"name": "United States",
-"code": "US",
-"weight": 5,
-"devices": [
-{
-"name": "desktop",
-"weight": 7,
-"screens": [
-{
-"width": 1920,
-"height": 1080,
-"weight": 5
-},
-{
-"width": 1366,
-"height": 768,
-"weight": 3
-}
-],
-"os": [
-{
-"name": "Windows",
-"weight": 6,
-"browsers": [
-{
-"name": "Chrome",
-"weight": 7
-},
-{
-"name": "Firefox",
-"weight": 3
-}
-]
-},
-{
-"name": "Linux",
-"weight": 3,
-"browsers": [
-{
-"name": "Firefox",
-"weight": 5
-}
-]
-}
-]
-},
-{
-"name": "mobile",
-"weight": 3,
-"screens": [
-{
-"width": 375,
-"height": 812,
-"weight": 6
-},
-{
-"width": 360,
-"height": 640,
-"weight": 4
-}
-],
-"os": [
-{
-"name": "Android",
-"weight": 7,
-"browsers": [
-{
-"name": "Chrome",
-"weight": 6
-},
-{
-"name": "Samsung Internet",
-"weight": 2
-}
-]
-},
-{
-"name": "iOS",
-"weight": 3,
-"browsers": [
-{
-"name": "Safari",
-"weight": 8
-}
-]
-}
-]
-}
-]
-},
-{
-"name": "France",
-"code": "FR",
-"weight": 2,
-"devices": [
-{
-"name": "desktop",
-"weight": 5,
-"screens": [
-{
-"width": 1600,
-"height": 900,
-"weight": 4
-}
-],
-"os": [
-{
-"name": "Windows",
-"weight": 5,
-"browsers": [
-{
-"name": "Edge",
-"weight": 5
-},
-{
-"name": "Chrome",
-"weight": 5
-}
-]
-}
-]
-}
-]
-}
-]
-},
-{
-"url": "https://browserleaks.com/ip",
-"countries": [
-{
-"name": "Germany",
-"code": "DE",
-"weight": 4,
-"devices": [
-{
-"name": "desktop",
-"weight": 6,
-"screens": [
-{
-"width": 1680,
-"height": 1050,
-"weight": 3
-},
-{
-"width": 1920,
-"height": 1080,
-"weight": 4
-}
-],
-"os": [
-{
-"name": "Windows",
-"weight": 7,
-"browsers": [
-{
-"name": "Chrome",
-"weight": 6
-},
-{
-"name": "Firefox",
-"weight": 4
-}
-]
-}
-]
-}
-]
-}
-]
-}
-]
-}
+  {
+    "workflow": 1,
+    "config": [
+      {
+        "url": "https://example.com",
+        "workers": 2,
+        "countries": [
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 5,
+            "devices": [
+              {
+                "name": "desktop",
+                "weight": 7,
+                "screens": [
+                  { "width": 1920, "height": 1080, "weight": 5 },
+                  { "width": 1366, "height": 768, "weight": 3 }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 6,
+                    "browsers": [
+                      { "name": "Chrome", "weight": 7 },
+                      { "name": "Firefox", "weight": 3 }
+                    ]
+                  },
+                  {
+                    "name": "Linux",
+                    "weight": 3,
+                    "browsers": [{ "name": "Firefox", "weight": 5 }]
+                  }
+                ]
+              },
+              {
+                "name": "mobile",
+                "weight": 3,
+                "screens": [
+                  { "width": 375, "height": 812, "weight": 6 },
+                  { "width": 360, "height": 640, "weight": 4 }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 7,
+                    "browsers": [
+                      { "name": "Chrome", "weight": 6 },
+                      { "name": "Samsung Internet", "weight": 2 }
+                    ]
+                  },
+                  {
+                    "name": "iOS",
+                    "weight": 3,
+                    "browsers": [{ "name": "Safari", "weight": 8 }]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 2,
+            "devices": [
+              {
+                "name": "desktop",
+                "weight": 5,
+                "screens": [{ "width": 1600, "height": 900, "weight": 4 }],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 5,
+                    "browsers": [
+                      { "name": "Edge", "weight": 5 },
+                      { "name": "Chrome", "weight": 5 }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://another-site.org",
+        "workers": 2,
+        "countries": [
+          {
+            "name": "Germany",
+            "code": "DE",
+            "weight": 4,
+            "devices": [
+              {
+                "name": "desktop",
+                "weight": 6,
+                "screens": [
+                  { "width": 1680, "height": 1050, "weight": 3 },
+                  { "width": 1920, "height": 1080, "weight": 4 }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 7,
+                    "browsers": [
+                      { "name": "Chrome", "weight": 6 },
+                      { "name": "Firefox", "weight": 4 }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]
