@@ -4,7 +4,7 @@
     "config": [
       {
         "url": "https://global.crypticx.store/",
-        "workers": 4,
+        "workers": 1,
         "countries": [
           {
             "name": "United States",
