@@ -3,57 +3,136 @@
     "workflow": 1,
     "config": [
       {
-        "url": "https://pixelscan.net/fingerprint-check",
+        "url": "https://blog.cybertoolhub.space/",
         "workers": 2,
         "countries": [
           {
             "name": "United States",
             "code": "US",
-            "weight": 5,
+            "weight": 10,
             "devices": [
               {
                 "name": "desktop",
-                "weight": 7,
+                "weight": 5,
                 "screens": [
-                  { "width": 1920, "height": 1080, "weight": 5 },
-                  { "width": 1366, "height": 768, "weight": 3 }
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
                 ],
                 "os": [
                   {
                     "name": "Windows",
-                    "weight": 6,
+                    "weight": 20,
                     "browsers": [
-                      { "name": "Chrome", "weight": 7 },
-                      { "name": "Firefox", "weight": 3 }
+                      {
+                        "name": "Chrome",
+                        "weight": 7
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 2
+                      }
                     ]
                   },
                   {
                     "name": "Linux",
-                    "weight": 3,
-                    "browsers": [{ "name": "Firefox", "weight": 5 }]
+                    "weight": 2,
+                    "browsers": [
+                      {
+                        "name": "Firefox",
+                        "weight": 5
+                      }
+                    ]
                   }
                 ]
               },
               {
                 "name": "mobile",
-                "weight": 3,
+                "weight": 40,
                 "screens": [
-                  { "width": 375, "height": 812, "weight": 6 },
-                  { "width": 360, "height": 640, "weight": 4 }
+                  {
+                    "width": 375,
+                    "height": 812,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 800,
+                    "weight": 4
+                  },
+                  {
+                    "width": 375,
+                    "height": 667,
+                    "weight": 4
+                  },
+                  {
+                    "width": 390,
+                    "height": 844,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 412,
+                    "height": 915,
+                    "weight": 4
+                  },
+                  {
+                    "width": 414,
+                    "height": 896,
+                    "weight": 4
+                  }
                 ],
                 "os": [
                   {
                     "name": "Android",
                     "weight": 7,
                     "browsers": [
-                      { "name": "Chrome", "weight": 6 },
-                      { "name": "Samsung Internet", "weight": 2 }
+                      {
+                        "name": "Chrome",
+                        "weight": 6
+                      }
                     ]
-                  },
-                  {
-                    "name": "iOS",
-                    "weight": 3,
-                    "browsers": [{ "name": "Safari", "weight": 8 }]
                   }
                 ]
               }
@@ -62,49 +141,393 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 2,
+            "weight": 3,
             "devices": [
               {
                 "name": "desktop",
                 "weight": 5,
-                "screens": [{ "width": 1600, "height": 900, "weight": 4 }],
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
                 "os": [
                   {
                     "name": "Windows",
-                    "weight": 5,
+                    "weight": 20,
                     "browsers": [
-                      { "name": "Edge", "weight": 5 },
-                      { "name": "Chrome", "weight": 5 }
+                      {
+                        "name": "Chrome",
+                        "weight": 7
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Linux",
+                    "weight": 2,
+                    "browsers": [
+                      {
+                        "name": "Firefox",
+                        "weight": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "mobile",
+                "weight": 40,
+                "screens": [
+                  {
+                    "width": 375,
+                    "height": 812,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 800,
+                    "weight": 4
+                  },
+                  {
+                    "width": 375,
+                    "height": 667,
+                    "weight": 4
+                  },
+                  {
+                    "width": 390,
+                    "height": 844,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 412,
+                    "height": 915,
+                    "weight": 4
+                  },
+                  {
+                    "width": 414,
+                    "height": 896,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 7,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 6
+                      }
                     ]
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "url": "https://pixelscan.net/fingerprint-check",
-        "countries": [
+          },
           {
-            "name": "Germany",
-            "code": "DE",
-            "weight": 4,
+            "name": "Sweden",
+            "code": "SE",
+            "weight": 10,
             "devices": [
               {
                 "name": "desktop",
-                "weight": 6,
+                "weight": 5,
                 "screens": [
-                  { "width": 1680, "height": 1050, "weight": 3 },
-                  { "width": 1920, "height": 1080, "weight": 4 }
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
                 ],
                 "os": [
                   {
                     "name": "Windows",
+                    "weight": 20,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 7
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Linux",
+                    "weight": 2,
+                    "browsers": [
+                      {
+                        "name": "Firefox",
+                        "weight": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "mobile",
+                "weight": 40,
+                "screens": [
+                  {
+                    "width": 375,
+                    "height": 812,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 800,
+                    "weight": 4
+                  },
+                  {
+                    "width": 375,
+                    "height": 667,
+                    "weight": 4
+                  },
+                  {
+                    "width": 390,
+                    "height": 844,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 412,
+                    "height": 915,
+                    "weight": 4
+                  },
+                  {
+                    "width": 414,
+                    "height": 896,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
                     "weight": 7,
                     "browsers": [
-                      { "name": "Chrome", "weight": 6 },
-                      { "name": "Firefox", "weight": 4 }
+                      {
+                        "name": "Chrome",
+                        "weight": 50
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 3,
+            "devices": [
+              {
+                "name": "desktop",
+                "weight": 5,
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 20,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 7
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 2
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Linux",
+                    "weight": 2,
+                    "browsers": [
+                      {
+                        "name": "Firefox",
+                        "weight": 5
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "mobile",
+                "weight": 40,
+                "screens": [
+                  {
+                    "width": 375,
+                    "height": 812,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 800,
+                    "weight": 4
+                  },
+                  {
+                    "width": 375,
+                    "height": 667,
+                    "weight": 4
+                  },
+                  {
+                    "width": 390,
+                    "height": 844,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 412,
+                    "height": 915,
+                    "weight": 4
+                  },
+                  {
+                    "width": 414,
+                    "height": 896,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 7,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 50
+                      }
                     ]
                   }
                 ]
