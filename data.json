@@ -3,7 +3,7 @@
     "workflow": 1,
     "config": [
       {
-        "url": "https://example.com",
+        "url": "https://browserleaks.com/ip",
         "workers": 2,
         "countries": [
           {
@@ -84,8 +84,7 @@
         ]
       },
       {
-        "url": "https://another-site.org",
-        "workers": 2,
+        "url": "https://browserleaks.com/ip",
         "countries": [
           {
             "name": "Germany",
