@@ -3,8 +3,8 @@
     "workflow": 1,
     "config": [
       {
-        "url": "https://blog.cybertoolhub.space/",
-        "workers": 2,
+        "url": "https://global.crypticx.store/",
+        "workers": 15,
         "countries": [
           {
             "name": "United States",
