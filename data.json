@@ -405,7 +405,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 3,
+            "weight": 50,
             "devices": [
               {
                 "name": "desktop",
@@ -527,51 +527,6 @@
                       {
                         "name": "Chrome",
                         "weight": 50
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Thailand",
-            "code": "TH",
-            "weight": 10,
-            "devices": [
-              {
-                "name": "mobile",
-                "weight": 10,
-                "screens": [
-                  {
-                    "width": 360,
-                    "height": 760,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 780,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 800,
-                    "weight": 4
-                  },
-                  {
-                    "width": 393,
-                    "height": 851,
-                    "weight": 4
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Android",
-                    "weight": 10,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 10
                       }
                     ]
                   }
