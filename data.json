@@ -4,7 +4,7 @@
     "config": [
       {
         "url": "https://global.crypticx.store/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "United States",
@@ -543,7 +543,7 @@
     "config": [
       {
         "url": "https://blog.cybertoolhub.space/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "United States",
@@ -1106,7 +1106,7 @@
     "config": [
       {
         "url": "https://web.lumeo.click/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "United States",
