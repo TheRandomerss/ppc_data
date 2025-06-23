@@ -543,7 +543,7 @@
     "config": [
       {
         "url": "https://blog.cybertoolhub.space/",
-        "workers": 2,
+        "workers": 6,
         "countries": [
           {
             "name": "United States",
