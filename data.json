@@ -141,7 +141,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 3,
+            "weight": 15,
             "devices": [
               {
                 "name": "desktop",
@@ -405,7 +405,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 50,
+            "weight": 15,
             "devices": [
               {
                 "name": "desktop",
@@ -640,7 +640,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 20,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -732,7 +732,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1203,7 +1203,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 20,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1387,7 +1387,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
