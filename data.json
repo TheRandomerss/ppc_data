@@ -9,7 +9,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               {
                 "name": "desktop",
@@ -141,7 +141,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 15,
+            "weight": 10,
             "devices": [
               {
                 "name": "desktop",
@@ -273,7 +273,7 @@
           {
             "name": "Sweden",
             "code": "SE",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "desktop",
@@ -405,7 +405,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 15,
+            "weight": 20,
             "devices": [
               {
                 "name": "desktop",
@@ -548,7 +548,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -640,7 +640,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 15,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -732,7 +732,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 15,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -824,7 +824,7 @@
           {
             "name": "Sweden",
             "code": "SE",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1111,7 +1111,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -1203,7 +1203,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 15,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -1387,7 +1387,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 15,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -1479,7 +1479,7 @@
           {
             "name": "Sweden",
             "code": "SE",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
