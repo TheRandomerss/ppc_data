@@ -951,7 +951,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1227,7 +1227,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 20,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1319,7 +1319,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
