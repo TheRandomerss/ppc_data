@@ -572,7 +572,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 10,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -664,7 +664,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -756,7 +756,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 30,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
