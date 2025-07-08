@@ -9,7 +9,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -101,7 +101,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -193,7 +193,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -285,7 +285,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 20,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -377,7 +377,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -475,7 +475,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -567,7 +567,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -659,7 +659,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -751,7 +751,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -843,7 +843,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 15,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -941,7 +941,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1033,7 +1033,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -1125,7 +1125,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -1217,7 +1217,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -1309,7 +1309,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 15,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1412,7 +1412,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 5,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1504,7 +1504,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -1596,7 +1596,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -1688,7 +1688,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -1780,7 +1780,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 15,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1878,7 +1878,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1970,7 +1970,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -2062,7 +2062,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -2154,7 +2154,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -2246,7 +2246,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 15,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -2344,7 +2344,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -2436,7 +2436,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -2528,7 +2528,7 @@
           {
             "name": "Thailand",
             "code": "TH",
-            "weight": 5,
+            "weight": 3,
             "devices": [
               {
                 "name": "mobile",
@@ -2620,7 +2620,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 40,
             "devices": [
               {
                 "name": "mobile",
@@ -2712,7 +2712,7 @@
           {
             "name": "cote d'ivoire",
             "code": "CI",
-            "weight": 15,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
