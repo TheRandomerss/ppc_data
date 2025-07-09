@@ -4,7 +4,7 @@
     "config": [
       {
         "url": "https://global.crypticx.store/",
-        "workers": 2,
+        "workers": 3,
         "countries": [
           {
             "name": "United States",
@@ -470,7 +470,7 @@
       },
       {
         "url": "https://game.zylox.link/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "United States",
@@ -1407,7 +1407,7 @@
     "config": [
       {
         "url": "https://web.lumeo.click/",
-        "workers": 2,
+        "workers": 3,
         "countries": [
           {
             "name": "United States",
@@ -2339,7 +2339,7 @@
       },
       {
         "url": "https://enjoy.zenpai.art/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "United States",
