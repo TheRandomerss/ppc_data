@@ -7,9 +7,9 @@
         "workers": 2,
         "countries": [
           {
-            "name": "United States",
-            "code": "US",
-            "weight": 15,
+            "name": "France",
+            "code": "FR",
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -99,8 +99,8 @@
             ]
           },
           {
-            "name": "United Kingdom",
-            "code": "UK",
+            "name": "Belgium",
+            "code": "BE",
             "weight": 10,
             "devices": [
               {
@@ -191,9 +191,9 @@
             ]
           },
           {
-            "name": "Thailand",
-            "code": "TH",
-            "weight": 3,
+            "name": "south africa",
+            "code": "ZA",
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -283,9 +283,9 @@
             ]
           },
           {
-            "name": "France",
-            "code": "FR",
-            "weight": 40,
+            "name": "Austria",
+            "code": "AT",
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -375,13 +375,197 @@
             ]
           },
           {
-            "name": "cote d'ivoire",
-            "code": "CI",
+            "name": "ukraine",
+            "code": "UA",
+            "weight": 10,
+            "devices": [
+              {
+                "name": "mobile",
+                "weight": 1,
+                "screens": [
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "desktop",
+                "weight": 10,
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 20
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 1,
+            "devices": [
+              {
+                "name": "mobile",
+                "weight": 1,
+                "screens": [
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "desktop",
+                "weight": 10,
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 20
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
             "weight": 5,
             "devices": [
               {
                 "name": "mobile",
-                "weight": 20,
+                "weight": 1,
                 "screens": [
                   {
                     "width": 360,
@@ -424,7 +608,7 @@
               },
               {
                 "name": "desktop",
-                "weight": 1,
+                "weight": 10,
                 "screens": [
                   {
                     "width": 1920,
@@ -478,9 +662,9 @@
         "workers": 2,
         "countries": [
           {
-            "name": "United States",
-            "code": "US",
-            "weight": 15,
+            "name": "France",
+            "code": "FR",
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -570,8 +754,8 @@
             ]
           },
           {
-            "name": "United Kingdom",
-            "code": "UK",
+            "name": "Belgium",
+            "code": "BE",
             "weight": 10,
             "devices": [
               {
@@ -662,9 +846,9 @@
             ]
           },
           {
-            "name": "Thailand",
-            "code": "TH",
-            "weight": 3,
+            "name": "south africa",
+            "code": "ZA",
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -754,9 +938,9 @@
             ]
           },
           {
-            "name": "France",
-            "code": "FR",
-            "weight": 40,
+            "name": "Austria",
+            "code": "AT",
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -846,13 +1030,197 @@
             ]
           },
           {
-            "name": "cote d'ivoire",
-            "code": "CI",
+            "name": "ukraine",
+            "code": "UA",
+            "weight": 10,
+            "devices": [
+              {
+                "name": "mobile",
+                "weight": 1,
+                "screens": [
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "desktop",
+                "weight": 10,
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 20
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 1,
+            "devices": [
+              {
+                "name": "mobile",
+                "weight": 1,
+                "screens": [
+                  {
+                    "width": 360,
+                    "height": 780,
+                    "weight": 4
+                  },
+                  {
+                    "width": 393,
+                    "height": 851,
+                    "weight": 4
+                  },
+                  {
+                    "width": 411,
+                    "height": 731,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 760,
+                    "weight": 4
+                  },
+                  {
+                    "width": 360,
+                    "height": 640,
+                    "weight": 4
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Android",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "desktop",
+                "weight": 10,
+                "screens": [
+                  {
+                    "width": 1920,
+                    "height": 1080,
+                    "weight": 5
+                  },
+                  {
+                    "width": 1366,
+                    "height": 768,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1600,
+                    "height": 900,
+                    "weight": 3
+                  },
+                  {
+                    "width": 1440,
+                    "height": 900,
+                    "weight": 3
+                  }
+                ],
+                "os": [
+                  {
+                    "name": "Windows",
+                    "weight": 1,
+                    "browsers": [
+                      {
+                        "name": "Chrome",
+                        "weight": 20
+                      },
+                      {
+                        "name": "Firefox",
+                        "weight": 1
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
             "weight": 5,
             "devices": [
               {
                 "name": "mobile",
-                "weight": 20,
+                "weight": 1,
                 "screens": [
                   {
                     "width": 360,
@@ -895,7 +1263,7 @@
               },
               {
                 "name": "desktop",
-                "weight": 1,
+                "weight": 10,
                 "screens": [
                   {
                     "width": 1920,
