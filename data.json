@@ -9,7 +9,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 20,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -101,7 +101,7 @@
           {
             "name": "Belgium",
             "code": "BE",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -193,7 +193,7 @@
           {
             "name": "south africa",
             "code": "ZA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -285,7 +285,7 @@
           {
             "name": "Austria",
             "code": "AT",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -377,7 +377,7 @@
           {
             "name": "ukraine",
             "code": "UA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -469,7 +469,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 1,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -561,7 +561,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 5,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -653,13 +653,13 @@
         ]
       },
       {
-        "url": "https://margot.9albifilmadina.shop/",
+        "url": "https://frogger.weldfatima.shop/",
         "workers": 2,
         "countries": [
           {
             "name": "France",
             "code": "FR",
-            "weight": 20,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -751,7 +751,7 @@
           {
             "name": "Belgium",
             "code": "BE",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -843,7 +843,7 @@
           {
             "name": "south africa",
             "code": "ZA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -935,7 +935,7 @@
           {
             "name": "Austria",
             "code": "AT",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1027,7 +1027,7 @@
           {
             "name": "ukraine",
             "code": "UA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -1119,7 +1119,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 1,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -1211,7 +1211,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 5,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -1314,7 +1314,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 20,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -1406,7 +1406,7 @@
           {
             "name": "Belgium",
             "code": "BE",
-            "weight": 10,
+            "weight": 15,
             "devices": [
               {
                 "name": "mobile",
@@ -1498,7 +1498,7 @@
           {
             "name": "south africa",
             "code": "ZA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -1590,7 +1590,7 @@
           {
             "name": "Austria",
             "code": "AT",
-            "weight": 10,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1682,7 +1682,7 @@
           {
             "name": "ukraine",
             "code": "UA",
-            "weight": 10,
+            "weight": 2,
             "devices": [
               {
                 "name": "mobile",
@@ -1774,7 +1774,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 1,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
@@ -1866,7 +1866,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 5,
+            "weight": 20,
             "devices": [
               {
                 "name": "mobile",
