@@ -469,7 +469,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 20,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1119,7 +1119,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 20,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -1774,7 +1774,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 20,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
@@ -2424,7 +2424,7 @@
           {
             "name": "United States",
             "code": "US",
-            "weight": 20,
+            "weight": 5,
             "devices": [
               {
                 "name": "mobile",
