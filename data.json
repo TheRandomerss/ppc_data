@@ -4,7 +4,7 @@
     "config": [
       {
         "url": "https://global.crypticx.store/",
-        "workers": 2,
+        "workers": 1,
         "countries": [
           {
             "name": "France",
@@ -654,7 +654,7 @@
       },
       {
         "url": "https://margot.9albifilmadina.shop/",
-        "workers": 2,
+        "workers": 1,
         "countries": [
           {
             "name": "France",
@@ -1309,7 +1309,7 @@
     "config": [
       {
         "url": "https://web.lumeo.click/",
-        "workers": 2,
+        "workers": 1,
         "countries": [
           {
             "name": "France",
@@ -1959,7 +1959,7 @@
       },
       {
         "url": "https://frogger.weldfatima.shop/",
-        "workers": 2,
+        "workers": 1,
         "countries": [
           {
             "name": "France",
