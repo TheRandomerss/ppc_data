@@ -9,7 +9,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -285,7 +285,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -383,7 +383,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -659,7 +659,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -762,7 +762,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -1038,7 +1038,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
@@ -1136,7 +1136,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 5,
+            "weight": 30,
             "devices": [
               {
                 "name": "mobile",
@@ -1412,7 +1412,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               {
                 "name": "mobile",
