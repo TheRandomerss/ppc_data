@@ -52,6 +52,42 @@
             ]
           },
           {
+            "name": "Cameron",
+            "code": "CM",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "Azerbaijan",
+            "code": "AZ",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "Senegal",
+            "code": "SN",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "Thailand",
+            "code": "TH",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
             "name": "Belgium",
             "code": "BE",
             "weight": 15,
@@ -102,6 +138,7 @@
               { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
+
           {
             "name": "United States",
             "code": "US",
