@@ -56,8 +56,8 @@
             "code": "US",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
           {
@@ -65,8 +65,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           }
         ]
@@ -89,8 +89,8 @@
             "code": "US",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
           {
@@ -98,8 +98,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           }
         ]
@@ -122,8 +122,8 @@
             "code": "US",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
           {
@@ -131,8 +131,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           }
         ]
@@ -229,8 +229,8 @@
             "code": "US",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
           {
@@ -238,8 +238,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           }
         ]
