@@ -73,7 +73,7 @@
       },
       {
         "url": "https://frogger.weldfatima.shop/",
-        "workers": 4,
+        "workers": 3,
         "countries": [
           {
             "name": "France",
@@ -98,91 +98,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              {
-                "name": "mobile",
-                "weight": 1,
-                "screens": [
-                  {
-                    "width": 360,
-                    "height": 780,
-                    "weight": 4
-                  },
-                  {
-                    "width": 393,
-                    "height": 851,
-                    "weight": 4
-                  },
-                  {
-                    "width": 411,
-                    "height": 731,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 760,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 640,
-                    "weight": 4
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Android",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "desktop",
-                "weight": 10,
-                "screens": [
-                  {
-                    "width": 1920,
-                    "height": 1080,
-                    "weight": 5
-                  },
-                  {
-                    "width": 1366,
-                    "height": 768,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1600,
-                    "height": 900,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1440,
-                    "height": 900,
-                    "weight": 3
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Windows",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 20
-                      },
-                      {
-                        "name": "Firefox",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              }
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
             ]
           }
         ]
@@ -214,91 +131,8 @@
             "code": "UK",
             "weight": 10,
             "devices": [
-              {
-                "name": "mobile",
-                "weight": 1,
-                "screens": [
-                  {
-                    "width": 360,
-                    "height": 780,
-                    "weight": 4
-                  },
-                  {
-                    "width": 393,
-                    "height": 851,
-                    "weight": 4
-                  },
-                  {
-                    "width": 411,
-                    "height": 731,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 760,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 640,
-                    "weight": 4
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Android",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "desktop",
-                "weight": 10,
-                "screens": [
-                  {
-                    "width": 1920,
-                    "height": 1080,
-                    "weight": 5
-                  },
-                  {
-                    "width": 1366,
-                    "height": 768,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1600,
-                    "height": 900,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1440,
-                    "height": 900,
-                    "weight": 3
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Windows",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 20
-                      },
-                      {
-                        "name": "Firefox",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              }
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
             ]
           }
         ]
@@ -310,190 +144,15 @@
     "config": [
       {
         "url": "https://web.lumeo.click/",
-        "workers": 5,
+        "workers": 4,
         "countries": [
           {
             "name": "France",
             "code": "FR",
             "weight": 30,
             "devices": [
-              {
-                "name": "mobile",
-                "weight": 20,
-                "screens": [
-                  {
-                    "width": 360,
-                    "height": 780,
-                    "weight": 4
-                  },
-                  {
-                    "width": 393,
-                    "height": 851,
-                    "weight": 4
-                  },
-                  {
-                    "width": 411,
-                    "height": 731,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 760,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 640,
-                    "weight": 4
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Android",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "desktop",
-                "weight": 1,
-                "screens": [
-                  {
-                    "width": 1920,
-                    "height": 1080,
-                    "weight": 5
-                  },
-                  {
-                    "width": 1366,
-                    "height": 768,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1600,
-                    "height": 900,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1440,
-                    "height": 900,
-                    "weight": 3
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Windows",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 20
-                      },
-                      {
-                        "name": "Firefox",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Belgium",
-            "code": "BE",
-            "weight": 15,
-            "devices": [
-              {
-                "name": "mobile",
-                "weight": 20,
-                "screens": [
-                  {
-                    "width": 360,
-                    "height": 780,
-                    "weight": 4
-                  },
-                  {
-                    "width": 393,
-                    "height": 851,
-                    "weight": 4
-                  },
-                  {
-                    "width": 411,
-                    "height": 731,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 760,
-                    "weight": 4
-                  },
-                  {
-                    "width": 360,
-                    "height": 640,
-                    "weight": 4
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Android",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "desktop",
-                "weight": 1,
-                "screens": [
-                  {
-                    "width": 1920,
-                    "height": 1080,
-                    "weight": 5
-                  },
-                  {
-                    "width": 1366,
-                    "height": 768,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1600,
-                    "height": 900,
-                    "weight": 3
-                  },
-                  {
-                    "width": 1440,
-                    "height": 900,
-                    "weight": 3
-                  }
-                ],
-                "os": [
-                  {
-                    "name": "Windows",
-                    "weight": 1,
-                    "browsers": [
-                      {
-                        "name": "Chrome",
-                        "weight": 20
-                      },
-                      {
-                        "name": "Firefox",
-                        "weight": 1
-                      }
-                    ]
-                  }
-                ]
-              }
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
             ]
           },
           {
@@ -502,7 +161,7 @@
             "weight": 10,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
+              { "preset": "desktopDefault1", "weight": 20 }
             ]
           },
           {
@@ -535,7 +194,7 @@
             "weight": 10,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
+              { "preset": "desktopDefault1", "weight": 20 }
             ]
           },
           {
