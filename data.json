@@ -39,39 +39,6 @@
     },
     "config": [
       {
-        "url": "https://margot.9albifilmadina.shop/",
-        "workers": 7,
-        "countries": [
-          {
-            "name": "France",
-            "code": "FR",
-            "weight": 30,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United States",
-            "code": "US",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United Kingdom",
-            "code": "UK",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          }
-        ]
-      },
-      {
         "url": "https://frogger.weldfatima.shop/",
         "workers": 3,
         "countries": [
@@ -133,6 +100,39 @@
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://web.lumeo.click/",
+        "workers": 3,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
             ]
           }
         ]
