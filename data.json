@@ -40,7 +40,7 @@
     "config": [
       {
         "url": "https://frogger.weldfatima.shop/",
-        "workers": 3,
+        "workers": 5,
         "countries": [
           {
             "name": "France",
@@ -106,7 +106,7 @@
       },
       {
         "url": "https://web.lumeo.click/",
-        "workers": 3,
+        "workers": 5,
         "countries": [
           {
             "name": "France",
@@ -180,7 +180,7 @@
     "config": [
       {
         "url": "https://web.lumeo.click/",
-        "workers": 4,
+        "workers": 6,
         "countries": [
           {
             "name": "France",
@@ -213,7 +213,7 @@
       },
       {
         "url": "https://frogger.weldfatima.shop/",
-        "workers": 3,
+        "workers": 6,
         "countries": [
           {
             "name": "France",
