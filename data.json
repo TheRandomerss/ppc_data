@@ -73,7 +73,7 @@
       },
       {
         "url": "https://download.spellforge.site/",
-        "workers": 1,
+        "workers": 4,
         "countries": [
           {
             "name": "France",
