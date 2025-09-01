@@ -39,39 +39,6 @@
     },
     "config": [
       {
-        "url": "https://frogger.weldfatima.shop/",
-        "workers": 5,
-        "countries": [
-          {
-            "name": "France",
-            "code": "FR",
-            "weight": 30,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United States",
-            "code": "US",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United Kingdom",
-            "code": "UK",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          }
-        ]
-      },
-      {
         "url": "https://download.spellforge.site/",
         "workers": 4,
         "countries": [
@@ -212,8 +179,8 @@
         ]
       },
       {
-        "url": "https://frogger.weldfatima.shop/",
-        "workers": 6,
+        "url": "https://download.spellforge.site/",
+        "workers": 4,
         "countries": [
           {
             "name": "France",
