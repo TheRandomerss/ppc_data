@@ -106,7 +106,7 @@
       },
       {
         "url": "https://online.zylox.link/",
-        "workers": 1,
+        "workers": 3,
         "countries": [
           {
             "name": "France",
@@ -240,6 +240,39 @@
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://online.zylox.link/",
+        "workers": 3,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
             ]
           }
         ]
