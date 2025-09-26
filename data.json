@@ -38,9 +38,8 @@
       }
     },
     "config": [
-
       {
-        "url": "https://web.lumeo.click/",
+        "url": "https://download.spellforge.site/",
         "workers": 5,
         "countries": [
           {
@@ -147,7 +146,7 @@
     },
     "config": [
       {
-        "url": "https://web.lumeo.click/",
+        "url": "https://download.spellforge.site/",
         "workers": 6,
         "countries": [
           {
