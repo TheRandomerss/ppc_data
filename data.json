@@ -45,7 +45,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -63,7 +63,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -78,7 +78,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -96,7 +96,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -111,7 +111,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -129,7 +129,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -185,7 +185,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -203,7 +203,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -218,7 +218,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -236,7 +236,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -251,7 +251,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -269,7 +269,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -325,7 +325,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -343,7 +343,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -358,7 +358,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -376,7 +376,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -391,7 +391,7 @@
           {
             "name": "France",
             "code": "FR",
-            "weight": 10,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -409,7 +409,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 30,
+            "weight": 20,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
