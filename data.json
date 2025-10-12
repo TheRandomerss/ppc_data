@@ -39,79 +39,13 @@
     },
     "config": [
       {
-        "url": "https://frogger.weldfatima.shop/",
-        "workers": 3,
+        "url": "https://free.allinonetoolbox.store/",
+        "workers": 4,
         "countries": [
           {
             "name": "France",
             "code": "FR",
-            "weight": 30,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United States",
-            "code": "US",
             "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United Kingdom",
-            "code": "UK",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://download.spellforge.site/",
-        "workers": 1,
-        "countries": [
-          {
-            "name": "France",
-            "code": "FR",
-            "weight": 30,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United States",
-            "code": "US",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United Kingdom",
-            "code": "UK",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://web.lumeo.click/",
-        "workers": 3,
-        "countries": [
-          {
-            "name": "France",
-            "code": "FR",
-            "weight": 30,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -129,7 +63,213 @@
           {
             "name": "United Kingdom",
             "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://online.zylox.link/",
+        "workers": 2,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
             "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://itchi.lumeo.click/",
+        "workers": 3,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "workflow": 2,
+    "devicePresets": {
+      "mobileDefault1": {
+        "screens": [
+          { "width": 360, "height": 780, "weight": 4 },
+          { "width": 393, "height": 851, "weight": 4 },
+          { "width": 411, "height": 731, "weight": 4 },
+          { "width": 360, "height": 760, "weight": 4 },
+          { "width": 360, "height": 640, "weight": 4 }
+        ],
+        "os": [
+          {
+            "name": "Android",
+            "weight": 1,
+            "browsers": [{ "name": "Chrome", "weight": 1 }]
+          }
+        ]
+      },
+      "desktopDefault1": {
+        "screens": [
+          { "width": 1920, "height": 1080, "weight": 5 },
+          { "width": 1366, "height": 768, "weight": 3 },
+          { "width": 1600, "height": 900, "weight": 3 },
+          { "width": 1440, "height": 900, "weight": 3 }
+        ],
+        "os": [
+          {
+            "name": "Windows",
+            "weight": 1,
+            "browsers": [
+              { "name": "Chrome", "weight": 20 },
+              { "name": "Firefox", "weight": 1 }
+            ]
+          }
+        ]
+      }
+    },
+    "config": [
+      {
+        "url": "https://online.zylox.link/",
+        "workers": 6,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://fun.crypticx.store/",
+        "workers": 2,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://itchi.lumeo.click/",
+        "workers": 3,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -179,13 +319,13 @@
     },
     "config": [
       {
-        "url": "https://web.lumeo.click/",
+        "url": "https://fun.crypticx.store/",
         "workers": 4,
         "countries": [
           {
             "name": "France",
             "code": "FR",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -203,7 +343,7 @@
           {
             "name": "United Kingdom",
             "code": "UK",
-            "weight": 10,
+            "weight": 30,
             "devices": [
               { "preset": "mobileDefault1", "weight": 1 },
               { "preset": "desktopDefault1", "weight": 10 }
@@ -212,13 +352,13 @@
         ]
       },
       {
-        "url": "https://frogger.weldfatima.shop/",
-        "workers": 3,
+        "url": "https://online.zylox.link/",
+        "workers": 1,
         "countries": [
           {
             "name": "France",
             "code": "FR",
-            "weight": 30,
+            "weight": 10,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
@@ -229,17 +369,50 @@
             "code": "US",
             "weight": 10,
             "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
             ]
           },
           {
             "name": "United Kingdom",
             "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
+        "url": "https://free.allinonetoolbox.store/",
+        "workers": 2,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
             "weight": 10,
             "devices": [
               { "preset": "mobileDefault1", "weight": 20 },
               { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 30,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
             ]
           }
         ]
