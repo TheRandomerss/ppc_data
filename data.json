@@ -40,7 +40,7 @@
     "config": [
       {
         "url": "https://free.allinonetoolbox.store/",
-        "workers": 4,
+        "workers": 5,
         "countries": [
           {
             "name": "France",
@@ -73,7 +73,7 @@
       },
       {
         "url": "https://online.zylox.link/",
-        "workers": 2,
+        "workers": 3,
         "countries": [
           {
             "name": "France",
@@ -106,7 +106,7 @@
       },
       {
         "url": "https://itchi.lumeo.click/",
-        "workers": 3,
+        "workers": 4,
         "countries": [
           {
             "name": "France",
@@ -180,7 +180,7 @@
     "config": [
       {
         "url": "https://online.zylox.link/",
-        "workers": 6,
+        "workers": 7,
         "countries": [
           {
             "name": "France",
@@ -213,7 +213,7 @@
       },
       {
         "url": "https://fun.crypticx.store/",
-        "workers": 2,
+        "workers": 3,
         "countries": [
           {
             "name": "France",
@@ -246,7 +246,7 @@
       },
       {
         "url": "https://itchi.lumeo.click/",
-        "workers": 3,
+        "workers": 4,
         "countries": [
           {
             "name": "France",
@@ -320,7 +320,7 @@
     "config": [
       {
         "url": "https://fun.crypticx.store/",
-        "workers": 4,
+        "workers": 5,
         "countries": [
           {
             "name": "France",
@@ -353,7 +353,7 @@
       },
       {
         "url": "https://online.zylox.link/",
-        "workers": 1,
+        "workers": 2,
         "countries": [
           {
             "name": "France",
@@ -386,7 +386,7 @@
       },
       {
         "url": "https://free.allinonetoolbox.store/",
-        "workers": 2,
+        "workers": 3,
         "countries": [
           {
             "name": "France",
