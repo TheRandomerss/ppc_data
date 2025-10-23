@@ -40,7 +40,7 @@
     "config": [
       {
         "url": "https://online.zylox.link/",
-        "workers": 3,
+        "workers": 2,
         "countries": [
           {
             "name": "France",
@@ -73,7 +73,7 @@
       },
       {
         "url": "https://itchi.lumeo.click/",
-        "workers": 4,
+        "workers": 2,
         "countries": [
           {
             "name": "France",
@@ -147,39 +147,6 @@
     "config": [
       {
         "url": "https://online.zylox.link/",
-        "workers": 7,
-        "countries": [
-          {
-            "name": "France",
-            "code": "FR",
-            "weight": 20,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 20 },
-              { "preset": "desktopDefault1", "weight": 1 }
-            ]
-          },
-          {
-            "name": "United States",
-            "code": "US",
-            "weight": 10,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 20 }
-            ]
-          },
-          {
-            "name": "United Kingdom",
-            "code": "UK",
-            "weight": 20,
-            "devices": [
-              { "preset": "mobileDefault1", "weight": 1 },
-              { "preset": "desktopDefault1", "weight": 10 }
-            ]
-          }
-        ]
-      },
-      {
-        "url": "https://fun.crypticx.store/",
         "workers": 3,
         "countries": [
           {
@@ -212,8 +179,41 @@
         ]
       },
       {
+        "url": "https://fun.crypticx.store/",
+        "workers": 6,
+        "countries": [
+          {
+            "name": "France",
+            "code": "FR",
+            "weight": 20,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 20 },
+              { "preset": "desktopDefault1", "weight": 1 }
+            ]
+          },
+          {
+            "name": "United States",
+            "code": "US",
+            "weight": 10,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 20 }
+            ]
+          },
+          {
+            "name": "United Kingdom",
+            "code": "UK",
+            "weight": 20,
+            "devices": [
+              { "preset": "mobileDefault1", "weight": 1 },
+              { "preset": "desktopDefault1", "weight": 10 }
+            ]
+          }
+        ]
+      },
+      {
         "url": "https://itchi.lumeo.click/",
-        "workers": 4,
+        "workers": 2,
         "countries": [
           {
             "name": "France",
@@ -287,7 +287,7 @@
     "config": [
       {
         "url": "https://fun.crypticx.store/",
-        "workers": 5,
+        "workers": 6,
         "countries": [
           {
             "name": "France",
