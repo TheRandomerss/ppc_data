@@ -148,7 +148,7 @@
 
       {
         "url": "https://fun.crypticx.store/",
-        "workers": 8,
+        "workers": 6,
         "countries": [
           {
             "name": "France",
@@ -255,7 +255,7 @@
     "config": [
       {
         "url": "https://fun.crypticx.store/",
-        "workers": 8,
+        "workers": 6,
         "countries": [
           {
             "name": "France",
